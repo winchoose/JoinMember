@@ -1,0 +1,9 @@
+.join {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 0 auto; 
+    justify-content: center;
+    gap: 5px;
+    height: 70vh;
+}
