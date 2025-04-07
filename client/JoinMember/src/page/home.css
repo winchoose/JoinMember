@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 70vh;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+.threeOption{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
