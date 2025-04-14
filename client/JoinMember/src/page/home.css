@@ -1,13 +1,21 @@
 .home {
     display: flex;
     flex-direction: column;
-    width: 50%;
-    height: 70vh;
+    width: 500px;
+    height: auto;
     margin: 0 auto;
     text-align: center;
     justify-content: center;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    margin-top: 300px;
+    box-shadow: -4px -4px 12px rgba(0, 0, 0, 0.15);
+    font: inherit;
 }
 .threeOption{
+    font: inherit;
     display: flex;
     gap: 5px;
     justify-content: center;
